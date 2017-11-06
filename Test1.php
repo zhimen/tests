@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 namespace tests;
 
-class TestCase extends \think\testing\TestCase
+class Test1 extends \think\testing\TestCase
 {
     protected $baseUrl = 'http://localhost';
 }
