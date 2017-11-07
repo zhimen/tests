@@ -12,5 +12,7 @@ namespace tests;
 
 class TestCase extends \think\testing\TestCase
 {
-    protected $baseUrl = 'http://localhost：81822';
+
+    protected $baseUrl = 'http://localhosthh';
+
 }
